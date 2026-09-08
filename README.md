@@ -6,6 +6,7 @@
 ## ¿Quiénes somos?
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
+hola beunos dias
 
 ## Estructura de la organización
 
@@ -19,7 +20,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📄 README.md        → Documentacion principal del repositorio
 ```
 
-## El Consejo de Villanos
+## El Consejo de Villanos!!
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
