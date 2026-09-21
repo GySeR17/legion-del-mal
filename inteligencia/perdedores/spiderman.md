@@ -7,6 +7,12 @@
 - Super fuerza
 - Super agilida'
 
+## Debilidades
+- Balistica
+- Sobrecarga del sentido aracnido
+- Ataques mentales
+- Responsabilidad emocional con amigos o extraños
+
 
 asdas
 d
