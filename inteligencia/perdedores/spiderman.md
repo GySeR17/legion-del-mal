@@ -12,6 +12,8 @@ asd
 - Ema Stona
 - Harry Potter Osbourne
 - Milla Morales
+- Norman Osbourne
+- J J Jameson
 
 ## Enemigos
 - Rhiino
