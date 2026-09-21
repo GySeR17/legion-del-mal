@@ -1,5 +1,11 @@
 # Spiderman
 
+## Poderes
+- Trepa los Muros
+- Lanza mecos
+- Es precoz (osea veloz xd, pero mucho xd)
+
+
 asdas
 d
 asd
