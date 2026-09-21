@@ -13,13 +13,6 @@
 - Ataques mentales
 - Responsabilidad emocional con amigos o extraños
 
-
-asdas
-d
-asd
-asd
-asd
-
 ## Conocidos
 - Tia May
 - Marihuana
