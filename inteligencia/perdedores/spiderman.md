@@ -4,6 +4,8 @@
 - Trepa los Muros
 - Lanza mecos
 - Es precoz (osea veloz xd, pero mucho xd)
+- Super fuerza
+- Super agilida'
 
 
 asdas
