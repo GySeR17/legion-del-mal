@@ -20,3 +20,9 @@ asd
 - Doc Oct
 - Venom
 - Duende Verde
+
+## Peliculas
+- Trilogia de Sam Raimi - Check
+- Tom Holland's Movies - Chewww
+- Amazing Spiderman - Check
+- Animated Miles Morales - Check
