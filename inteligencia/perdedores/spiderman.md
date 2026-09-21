@@ -7,12 +7,11 @@
 - Super fuerza
 - Super agilida'
 
-
-asdas
-d
-asd
-asd
-asd
+## Debilidades
+- Balistica
+- Sobrecarga del sentido aracnido
+- Ataques mentales
+- Responsabilidad emocional con amigos o extraños
 
 ## Conocidos
 - Tia May
