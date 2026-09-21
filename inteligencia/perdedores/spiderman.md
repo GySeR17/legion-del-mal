@@ -10,3 +10,5 @@ asd
 ## Enemigos
 - Rhiino
 - Doc Oct
+- Venom
+- Duende Verde
