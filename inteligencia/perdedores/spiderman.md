@@ -26,3 +26,4 @@ asd
 - Tom Holland's Movies - Chewww
 - Amazing Spiderman - Check
 - Animated Miles Morales - Check
+- Cartoon Network best animated movies - Check
