@@ -1,4 +1,4 @@
-# 🧬 Proyecto Krypton
+# 🧬 Proyecto Mirror - Krypton
 
 **Código:** PKR-003
 **Clasificación:** Ultra secreto
