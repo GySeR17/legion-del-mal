@@ -6,8 +6,8 @@ jobs:
   acceso-a-la-base:
     runs-on: ubuntu-latest
     steps:
-        - name: El agente llega a la fortaleza
-            run: |
+        - name: "El agente llega a la fortaleza"
+          run: |
                 echo "El agente ${{github.actor}} llega a la fortaleza prohibida"
                 echo ""
                 echo "Buscar los archivos de la Legion"
@@ -15,10 +15,10 @@ jobs:
                 echo ""
                 echo "❌ pero que paso? no hay nada"
         - name: "Brainiac desbloquea la boveda"
-            - uses: actions/checkout@v4
+          uses: actions/checkout@v4
         
         - name: "Ahora si vamos a ver los planes"
-            run: |
+          run: |
                 echo "Buscar los archivos de la Legion"
                 ls -la
                 echo "✅ Funciona!!!"
