@@ -24,13 +24,13 @@ jobs:
                 echo "✅ Funciona!!!"
                 echo ""
                 echo "Planes:"
-                echo ls planes/
+                ls planes/
                 echo ""
                 echo "Villanos:"
-                echo ls villanos/
+                ls villanos/
                 echo ""
                 echo "Inteligencia:"
-                echo ls inteligencia/
+                ls inteligencia/
 
                 
             
