@@ -1,6 +1,5 @@
 name: Comunicador de la Legion
 
-# Controls when the workflow will run
 on:
   workflow_dispatch:
     inputs: 
@@ -20,6 +19,17 @@ on:
             required: true
             default: 'La mísion fue un exito'
             type: string
+
+        cow-character:
+            description: 'Caracter de la vaca'
+            required: true
+            default: 'eyes'
+            type: choice
+            options:
+                - eyes
+                - tux
+                - dragon
+                - ghostbusters
 
         prioridad:
             description: 'Nivel de prioridad'
