@@ -34,3 +34,7 @@
 - Amazing Spiderman - Check
 - Animated Miles Morales - Check
 - Cartoon Network best animated movies - Check
+
+## Estrategia recomendada
+
+Se recomienda...
